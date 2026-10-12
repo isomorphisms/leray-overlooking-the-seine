@@ -21,6 +21,20 @@ The same 2000 memorial issue that published Miller's paper contains two further 
 
 [Memorial issue's publisher listing](https://smf.emath.fr/publications/jean-leray-1906-1998)
 
+## OpenAI (2026): Navier–Stokes and Euler citation trail
+
+- **OpenAI, “[Finite Time Blowup for Navier–Stokes](https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf)”** (2026). A proposed finite-time blowup construction with **smooth compactly supported forcing**. Its 22 bibliography entries are transcribed into [openai-navier-stokes-2026.bib](bibliography/openai-navier-stokes-2026.bib), with the manuscript's original reference numbers preserved.
+- **OpenAI, “[Finite Time Blowup for the Euler Equation](https://cdn.openai.com/pdf/315b36cd-ec98-4023-8342-93345194ece1/euler.pdf)”** (2026). Companion **unforced Euler** manuscript, with 29 references, five shared with the Navier–Stokes list. See [openai-euler-2026.bib](bibliography/openai-euler-2026.bib).
+- **Citation crawl:** [numbered citation map](bibliography/citation-map.md) and [28 selected second-hop references](bibliography/second-hop.bib) traced through Albritton–Brué–Colombo, Buckmaster–Vicol, Tao, and Etnyre–Ghrist I. This is a *selected* second hop, not a claim to have recursively exhausted every cited paper or independently verified the manuscripts.
+
+## Contact topology and hydrodynamics: Etnyre–Ghrist
+
+**John Etnyre and Robert Ghrist (2000), “[Contact topology and hydrodynamics I: Beltrami fields and the Seifert conjecture](https://etnyre.math.gatech.edu/preprints/papers/hydro.pdf).”** *Nonlinearity* 13(2), 441–458. [DOI](https://doi.org/10.1088/0951-7715/13/2/306).
+
+Nonsingular **Beltrami vector fields** (velocity parallel to nonzero curl) correspond, up to rescaling, to **Reeb fields** of contact forms. The correspondence brings periodic-orbit results from contact geometry to steady incompressible **Euler** flows. The “Seifert conjecture” in this title concerns the existence of **periodic orbits**, not Seifert-fibered manifolds.
+
+Companion papers: **[II: Solid tori](https://doi.org/10.1017/S0143385702000408)** (2002) and **[III: Knotted orbits](https://doi.org/10.1090/S0002-9947-00-02651-9)** (2000). These are related reading, **not papers directly cited by OpenAI's Navier–Stokes manuscript**. All three records are in [references.bib](references.bib).
+
 ## Related fluid mechanics: shark denticles as airfoil vortex generators
 
 - **August G. Domel, Mehdi Saadat, James C. Weaver, Hossein Haj-Hariri, Katia Bertoldi, and George V. Lauder (2018), “Shark skin-inspired designs that improve aerodynamic performance.”** *Journal of the Royal Society Interface* **15**(139), article 20170828.  
