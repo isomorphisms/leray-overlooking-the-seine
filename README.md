@@ -56,3 +56,7 @@ The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle air
 ## post OAI
 
 [Summaries of numerical follow-ups to OpenAI's Navier–Stokes result and a comparison with automated CFD research](post%20OAI/README.md): Duraiswami's swirl-collapse, ns-blowup, MechanicaFluidorum and RPI AI CFD Scientist.
+
+## Scott Turner: Physics of Life
+
+[Recovered video links and a guide to the four-part series](notes/scott-turner-physics-of-life.md): *Frill is Gone*, the Reynolds-number flume demonstration, momentum, and life at low Reynolds number, with connections to the CFD reading.

@@ -41,3 +41,7 @@ Start with the [common experimental and numerical protocol](shark-denticle-lift.
 A small implementation can use Basilisk/WaterLily for experiments, Xcompact3d/Nek5000 for high-fidelity checks, and OpenFOAM/Code_Saturne/SU2 as independent practical baselines. These are **alternatives**, not ten packages to integrate. The C++ implementations are research references only; nothing in this folder imposes C++ on Leray or the wider build system.
 
 **Reproducibility rule:** report a negative result just as prominently as a positive one. Never transfer a rough-wall skin-friction result into an airfoil-lift claim without actually simulating the airfoil.
+
+## Video companion: Physics of Life
+
+[Scott Turner's videos and course guide](../notes/scott-turner-physics-of-life.md) provide experiments and biological examples for Reynolds number, boundary layers, drag and vortex shedding, including the cylinder-and-dye flume demonstration.
