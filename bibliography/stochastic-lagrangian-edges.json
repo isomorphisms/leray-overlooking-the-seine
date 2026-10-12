@@ -1,0 +1,63 @@
+{
+  "checked": "2026-10-12",
+  "scope": "Selected continuation; no claim of exhaustive bibliography coverage or proof verification.",
+  "new_records": ["L154", "L155", "L156", "L157", "L158", "L159", "L160", "L161", "L162", "L163"],
+  "updated_records": ["L125", "L150", "L151", "L152", "L153"],
+  "record_register": "../notes/stochastic-lagrangian-spider-continuation.md",
+  "edge_schema": ["source", "target", "reference_locator"],
+  "relation_for_all_edges": "cites",
+  "evidence_url_rule": "Look up the source ID in citing_versions; the third edge field locates the reference in that version.",
+  "citing_versions": {
+    "L150": "https://www.numdam.org/articles/10.1016/j.anihpc.2007.05.008/",
+    "L151": "https://link.springer.com/article/10.1007/BF02102642",
+    "L152": "https://doi.org/10.1063/1.1608009",
+    "L154": "https://web.math.princeton.edu/~const/xlnsF.pdf",
+    "L156": "https://arxiv.org/html/0804.3602v1",
+    "L157": "https://arxiv.org/html/math/0511067v4",
+    "L158": "https://arxiv.org/html/1003.2461v4",
+    "L159": "https://arxiv.org/html/0803.1222v3",
+    "L160": "https://www.math.cmu.edu/~gautam/sj/research/papers/200811-resetting.pdf",
+    "L161": "https://arxiv.org/html/0810.0817v1",
+    "L163": "https://www.numdam.org/articles/10.1016/j.ansens.2006.07.002/"
+  },
+  "inherited_anchors_not_reaudited": {
+    "L015": "Beale–Kato–Majda (1984), Remarks on the breakdown of smooth solutions for the 3D Euler equation",
+    "L018": "Constantin–Foias (1988), Navier–Stokes Equations",
+    "L020": "Fujita–Kato (1964), On the Navier–Stokes initial value problem I",
+    "L022": "Kato (1984), Strong L^p-solutions of Navier–Stokes equations in R^m"
+  },
+  "edges": [
+    ["L152", "L154", "Publisher references [1]"],
+    ["L152", "L155", "Publisher references [2]"],
+    ["L154", "L155", "Author manuscript [4], PDF p.31"],
+    ["L154", "L018", "Author manuscript [6], PDF p.31"],
+    ["L156", "L155", "v1 references [1]"],
+    ["L156", "L154", "v1 references [2]"],
+    ["L156", "L152", "v1 references [3]"],
+    ["L157", "L155", "v4 references [9]"],
+    ["L157", "L154", "v4 references [10]"],
+    ["L157", "L015", "v4 references [1]"],
+    ["L158", "L157", "v4 references [11]"],
+    ["L158", "L155", "v4 references [7]"],
+    ["L158", "L018", "v4 references [10]"],
+    ["L158", "L161", "v4 references [16]"],
+    ["L159", "L157", "v3 references [6], earlier to-appear version"],
+    ["L159", "L155", "v3 references [7]"],
+    ["L159", "L018", "v3 references [5]"],
+    ["L160", "L157", "Published references [3], printed p.1500 / PDF p.33"],
+    ["L160", "L159", "Published references [9], printed p.1500 / PDF p.33"],
+    ["L161", "L157", "v1 references [1]"],
+    ["L150", "L163", "Published references [8]"],
+    ["L150", "L162", "Published references [18]"],
+    ["L150", "L020", "Published references [10]"],
+    ["L150", "L022", "Published references [17]"],
+    ["L163", "L162", "Published references [10], not author-preprint [8]"],
+    ["L151", "L018", "Publisher references [1]"]
+  ],
+  "limits": [
+    "All reference numbers refer to the specified citing version.",
+    "L153 is publisher-metadata-only: scientific content and disputed pagination remain unverified.",
+    "Finite-ensemble dissipation and resetting results retain their stated domains and hypotheses.",
+    "No simulations, solver installation, proof verification or FP/AICI acceptance receipts were produced."
+  ]
+}

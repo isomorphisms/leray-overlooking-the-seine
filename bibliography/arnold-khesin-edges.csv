@@ -1,0 +1,50 @@
+source,target,relation,evidence,evidence_url,checked_on
+L090,L124,cites,"Khesin 2021 supplementary survey, reference 189",https://link.springer.com/content/pdf/bbm%3A978-3-030-74278-2/1,2026-10-12
+L090,L134,cites,"Khesin 2021 supplementary survey, reference 207",https://link.springer.com/content/pdf/bbm%3A978-3-030-74278-2/1,2026-10-12
+L090,L139,cites,"Khesin 2021 supplementary survey, reference 65",https://link.springer.com/content/pdf/bbm%3A978-3-030-74278-2/1,2026-10-12
+L090,L142,cites,"Khesin 2021 supplementary survey, reference 148",https://link.springer.com/content/pdf/bbm%3A978-3-030-74278-2/1,2026-10-12
+L090,L147,cites,"Khesin 2021 supplementary survey, reference 44",https://link.springer.com/content/pdf/bbm%3A978-3-030-74278-2/1,2026-10-12
+L124,L125,cites,Named entry Zeitlin (1991) in the bibliography,https://arxiv.org/html/1812.11055v4,2026-10-12
+L124,L126,cites,Named entry Zeitlin (2004) in the bibliography,https://arxiv.org/html/1812.11055v4,2026-10-12
+L124,L127,cites,Named entry McLachlan (1993) in the bibliography,https://arxiv.org/html/1812.11055v4,2026-10-12
+L124,L128,cites,Named entry Modin & Viviani (2019) in the bibliography,https://arxiv.org/html/1812.11055v4,2026-10-12
+L124,L130,cites,Named entry Qi & Marston (2014) in the bibliography,https://arxiv.org/html/1812.11055v4,2026-10-12
+L129,L128,corrects,Publisher correction to Proposition 1,https://link.springer.com/article/10.1007/s10208-024-09661-y,2026-10-12
+L132,L125,cites,"Version 2, reference 45",https://arxiv.org/html/2508.07088v2,2026-10-12
+L132,L126,cites,"Version 2, reference 46",https://arxiv.org/html/2508.07088v2,2026-10-12
+L132,L127,cites,"Version 2, reference 32",https://arxiv.org/html/2508.07088v2,2026-10-12
+L132,L131,cites,"Version 2, reference 11",https://arxiv.org/html/2508.07088v2,2026-10-12
+L132,L133,documents_software,Section 4 and software footnote,https://arxiv.org/html/2508.07088v2,2026-10-12
+L133,L124,implements,README reference 1,https://github.com/klasmodin/quflow/blob/master/README.md,2026-10-12
+L133,L132,cites,README reference 2,https://github.com/klasmodin/quflow/blob/master/README.md,2026-10-12
+L135,L134,cites,Reference 14,https://arxiv.org/html/1701.06448v2,2026-10-12
+L136,L137,related_method,Editorial connection: compatible finite-element spaces; direct citation not checked,https://arxiv.org/abs/1910.05707,2026-10-12
+L137,L138,related_method,Same-author finite-element extension; direct citation not checked,https://arxiv.org/abs/2012.04122,2026-10-12
+L139,L149,cites,Reference 4,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L094,cites,Reference 5,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L096,cites,Reference 6,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L143,cites,Reference 10,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L144,cites,Reference 11,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L097,cites,Reference 12,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L153,cites,Reference 13,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L142,cites,Reference 14,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L032,cites,Reference 15,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L152,cites,Reference 16,https://arxiv.org/html/1606.06176v2,2026-10-12
+L139,L151,cites,Reference 17,https://arxiv.org/html/1606.06176v2,2026-10-12
+L140,L041,cites,"Version 3, reference 1",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L044,cites,"Version 3, reference 5",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L141,cites,"Version 3, reference 7",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L150,cites,"Version 3, reference 10",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L139,cites,"Version 3, reference 13",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L094,cites,"Version 3, reference 14",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L149,cites,"Version 3, reference 15",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L096,cites,"Version 3, reference 17",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L020,cites,"Version 3, reference 18",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L022,cites,"Version 3, reference 23",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L153,cites,"Version 3, reference 24",https://arxiv.org/html/2311.01369v3,2026-10-12
+L140,L001,cites,"Version 3, reference 27",https://arxiv.org/html/2311.01369v3,2026-10-12
+L144,L143,compares_with,Abstract explicitly contrasts simulation with Scheeler et al. experiments,https://arxiv.org/abs/1509.03142,2026-10-12
+L146,L153,cites,Abstract identifies the 1994 review as predecessor,https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-030121-125143,2026-10-12
+L145,L001,cites,Publisher bibliography: Leray 1934,https://doi.org/10.1017/jfm.2020.58,2026-10-12
+L091,L147,related_method,Contact/Beltrami correspondence; citation not checked in L147 full text,https://arxiv.org/abs/1911.01963,2026-10-12
+L099,L148,author_followup,"Same authors, generalized-flow development; not a citation assertion",https://arxiv.org/abs/2206.01434,2026-10-12
