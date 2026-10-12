@@ -52,3 +52,7 @@ The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle air
 
 - [**Duncan Lockerby: annotated 2001–2025 citation spider**](notes/duncan-lockerby-spider.md) — original 2009 article, turbulent wall-control sequence, rarefied/hybrid CFD branch, grants, researchers, model and experimental boundaries.
 - [**All 20 direct references of Duque-Daza et al. (2012)**](notes/duncan-lockerby-2012-backreferences.md) — one-hop backward bibliography, with verified forward links and audit limits.
+
+## post OAI
+
+[Summaries of numerical follow-ups to OpenAI's Navier–Stokes result and a comparison with automated CFD research](post%20OAI/README.md): Duraiswami's swirl-collapse, ns-blowup, MechanicaFluidorum and RPI AI CFD Scientist.
