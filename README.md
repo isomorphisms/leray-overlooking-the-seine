@@ -30,7 +30,7 @@ The same 2000 memorial issue that published Miller's paper contains two further 
 
   The paper proposes two contributing mechanisms: a wake separation bubble changes the pressure distribution and strengthens suction, while streamwise vortices replenish momentum in the near-wall boundary layer. This is an application of fluid mechanics and flow control relevant to the broader Navier–Stokes reading theme, **not a work by Leray**.
 
-  **Identification note:** Added as a possible match for a remembered professor's social-media post about small structures dramatically improving wing lift. The original post and its attribution have not been verified; the study does provide proposed physical explanations.
+  **Identification correction:** This is a separate 2018 shark-denticle study, **not** the 2009 wing-waggling article associated with Duncan Lockerby's comment that the drag-reduction mechanism was not yet understood. The quoted source was the [EPSRC announcement republished by ScienceDaily (22 May 2009)](https://www.sciencedaily.com/releases/2009/05/090521084721.htm), discussed below. The precise social-media post URL has not been recovered.
 
 Bibliographic records are in [references.bib](references.bib). Papers are linked at their source rather than republished as PDF copies here.
 
