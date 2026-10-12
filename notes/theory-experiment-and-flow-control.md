@@ -7,10 +7,12 @@ These notes follow a set of 2018–2025 social-media screenshots on Jean Leray, 
 - **Fluid dynamics, 1934:** Leray's work on the three-dimensional Navier–Stokes equations established the global existence of weak solutions, along with important results on strong solutions and possible singularities. Ożański and Pooley reconstruct those arguments, including weak–strong uniqueness and the singular-time set: [arXiv:1708.09787](https://arxiv.org/abs/1708.09787).
 - **Oflag XVIIA, 1940–1945:** While imprisoned, Leray redirected his work from mechanics toward algebraic topology and developed ideas leading to sheaves, sheaf cohomology, and spectral sequences. Haynes Miller's history is [Leray in Oflag XVIIA](https://math.mit.edu/~hrm/papers/ss.pdf). This is not Oflag XVIIIA.
 
-One passage in the screenshot states a fact worth keeping precise: **in a Hilbert space** (in particular (L^2)), weak convergence (u_n \rightharpoonup u) *together with* (\|u_n\|\to\|u\|) implies strong convergence. Indeed,
-[
+One passage in the screenshot states a fact worth keeping precise: **in a Hilbert space** (in particular $L^2$), weak convergence $u_n \rightharpoonup u$ *together with* $\|u_n\|\to\|u\|$ implies strong convergence. Indeed,
+
+$$
 \|u_n-u\|^2=\|u_n\|^2+\|u\|^2-2\langle u_n,u\rangle\to0.
-]
+$$
+
 It is not an unrestricted theorem for every normed space. This kind of compactness/weak-solution argument matters to Leray's work.
 
 ## The wing-waggling episode: what was observed, proposed, and understood
@@ -35,7 +37,7 @@ These two Lockerby strands—rarefied-gas models and turbulent drag control—sh
 - **Andrew N. Norris, Rutgers:** [publication index](https://coewww.rutgers.edu/~norris/papers.html). The screenshot's `.../papers...` link does **not** identify which paper was intended. Do not assign a title without recovering the complete URL.
 - **J. Scott Turner, SUNY College of Environmental Science and Forestry (Syracuse):** an animal/biophysics lecture was linked as [this YouTube video](https://youtu.be/KajHpHdZoAM) in a December 2025 post. Its full title/content has not been independently checked; his work on termites and flows is illustrated by [this interview](https://www.loe.org/shows/segments.html?programID=09-P13-00042&segmentID=8).
 - **Margaret Byron:** [Penn State research](https://news.engr.psu.edu/2021/byron-margaret-bio-fluid-structure-interaction.aspx) on biological fluid mechanics. The screenshot's characterization of her status as a mechanical engineer is an opinion, not an adequate description of her qualifications; [a 2020 seminar biography](https://sites.google.com/view/frontiersmes/) records a Princeton B.S.E. in Mechanical and Aerospace Engineering and Berkeley graduate degrees in Civil and Environmental Engineering.
-- **Engineering education and funding priorities:** the GVSU factory-floor/controls-course quotes and a 2020 criticism of NSF graduate fellowship priorities concern the sociology of research, not evidence about fluid motion. The latter source can be identified as [Peter Woit, *Funding Priorities* (August 2020)](https://www.math.columbia.edu/~woit/wordpress/?p=12014); the exact GVSU article URL is truncated in the screenshots and remains to be recovered.
+- **Engineering education and funding priorities:** the GVSU factory-floor/controls-course quotes and a 2020 criticism of NSF graduate fellowship priorities concern the sociology of research, not evidence about fluid motion. The latter source can be identified as [Peter Woit, *Funding Priorities* (August 2020)](https://www.math.columbia.edu/~woit/wordpress/?p=11961); the exact GVSU article URL is truncated in the screenshots and remains to be recovered.
 
 ## Questions worth testing, not assuming
 
