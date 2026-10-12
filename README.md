@@ -47,3 +47,8 @@ The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle air
 ## CFD solvers: shark-denticle lift
 
 [Research notes on ten CFD solvers, their numerical approaches, and a test protocol for shark-denticle-induced lift](CFD%20solvers/README.md).
+
+## Duncan Lockerby citation spider
+
+- [**Duncan Lockerby: annotated 2001–2025 citation spider**](notes/duncan-lockerby-spider.md) — original 2009 article, turbulent wall-control sequence, rarefied/hybrid CFD branch, grants, researchers, model and experimental boundaries.
+- [**All 20 direct references of Duque-Daza et al. (2012)**](notes/duncan-lockerby-2012-backreferences.md) — one-hop backward bibliography, with verified forward links and audit limits.
