@@ -21,4 +21,15 @@ The same 2000 memorial issue that published Miller's paper contains two further 
 
 [Memorial issue's publisher listing](https://smf.emath.fr/publications/jean-leray-1906-1998)
 
+## Related fluid mechanics: shark denticles as airfoil vortex generators
+
+- **August G. Domel, Mehdi Saadat, James C. Weaver, Hossein Haj-Hariri, Katia Bertoldi, and George V. Lauder (2018), “Shark skin-inspired designs that improve aerodynamic performance.”** *Journal of the Royal Society Interface* **15**(139), article 20170828.  
+  [Full paper (PDF, author-hosted at Harvard)](https://scholar.harvard.edu/files/bertoldi/files/gus_denticles.pdf) · [Publisher DOI](https://doi.org/10.1098/rsif.2017.0828) · [Harvard explanation](https://seas.harvard.edu/news/using-shark-scales-design-better-drones-planes-and-wind-turbines)
+
+  The researchers 3D-printed mako-shark denticle-inspired ridges onto the suction side of an airfoil and compared 20 configurations in a water-flow tank, alongside simulations. They reported increased lift and reduced drag in selected configurations, including **up to 323% improvement in lift-to-drag ratio** at low angles of attack—not a 323% increase in lift.
+
+  The paper proposes two contributing mechanisms: a wake separation bubble changes the pressure distribution and strengthens suction, while streamwise vortices replenish momentum in the near-wall boundary layer. This is an application of fluid mechanics and flow control relevant to the broader Navier–Stokes reading theme, **not a work by Leray**.
+
+  **Identification note:** Added as a possible match for a remembered professor's social-media post about small structures dramatically improving wing lift. The original post and its attribution have not been verified; the study does provide proposed physical explanations.
+
 Bibliographic records are in [references.bib](references.bib). Papers are linked at their source rather than republished as PDF copies here.
