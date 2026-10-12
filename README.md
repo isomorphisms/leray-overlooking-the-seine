@@ -44,3 +44,6 @@ A set of historical social-media screenshots connects Leray's weak-solution work
 - **EPSRC (2009):** the ["waggling wings" announcement](https://www.sciencedaily.com/releases/2009/05/090521084721.htm). Its fuel-savings and drag-reduction estimates were **prospective**, not independently established aircraft performance.
 
 The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle airfoil experiment. Neither is a result of Leray's own research.
+## CFD solvers: shark-denticle lift
+
+[Research notes on ten CFD solvers, their numerical approaches, and a test protocol for shark-denticle-induced lift](CFD%20solvers/README.md).
