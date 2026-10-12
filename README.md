@@ -56,3 +56,7 @@ The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle air
 ## post OAI
 
 [Summaries of numerical follow-ups to OpenAI's Navier–Stokes result and a comparison with automated CFD research](post%20OAI/README.md): Duraiswami's swirl-collapse, ns-blowup, MechanicaFluidorum and RPI AI CFD Scientist.
+
+## Contact and symplectic geometry
+
+[**Contact and symplectic geometry: authors, papers, and experiments**](contact-symplectic/README.md) — Eva Miranda and collaborators; William L. Burke; Stephanie Frank Singer; Etnyre–Ghrist; foundations and wider topology; geometric numerical methods. Includes a plain-language guide, proposed experiments, and a local bibliography.
