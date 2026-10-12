@@ -33,3 +33,14 @@ The same 2000 memorial issue that published Miller's paper contains two further 
   **Identification note:** Added as a possible match for a remembered professor's social-media post about small structures dramatically improving wing lift. The original post and its attribution have not been verified; the study does provide proposed physical explanations.
 
 Bibliographic records are in [references.bib](references.bib). Papers are linked at their source rather than republished as PDF copies here.
+
+## Theory, experiments, and control of flows
+
+A set of historical social-media screenshots connects Leray's weak-solution work with questions about industrial fluid mechanics, turbulence, drag reduction, and models outside the conventional continuum regime.
+
+- [**Leray, theory, experiments, and flow control: annotated reading notes**](notes/theory-experiment-and-flow-control.md) — separates confirmed papers from screenshot leads and unverified claims.
+- **Lockerby and Reese (2008):** rarefied/non-equilibrium microscale gas flow and a comparative R13 benchmark; [paper](https://wrap.warwick.ac.uk/id/eprint/863/).
+- **Lockerby and collaborators (2005, 2007, 2012):** near-wall streaks, microjets, resonant-actuator hazards, and linearized Navier–Stokes modelling of drag control; [2012 paper](https://doi.org/10.1017/jfm.2012.189).
+- **EPSRC (2009):** the ["waggling wings" announcement](https://www.sciencedaily.com/releases/2009/05/090521084721.htm). Its fuel-savings and drag-reduction estimates were **prospective**, not independently established aircraft performance.
+
+The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle airfoil experiment. Neither is a result of Leray's own research.
