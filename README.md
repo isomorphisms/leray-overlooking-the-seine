@@ -60,3 +60,7 @@ The 2009 resonant-jet proposal is **different from** the 2018 shark-denticle air
 ## Contact and symplectic geometry
 
 [**Contact and symplectic geometry: authors, papers, and experiments**](contact-symplectic/README.md) — Eva Miranda and collaborators; William L. Burke; Stephanie Frank Singer; Etnyre–Ghrist; foundations and wider topology; geometric numerical methods. Includes a plain-language guide, proposed experiments, and a local bibliography.
+
+## Scott Turner: Physics of Life
+
+[Recovered video links and a guide to the four-part series](notes/scott-turner-physics-of-life.md): *Frill is Gone*, the Reynolds-number flume demonstration, momentum, and life at low Reynolds number, with connections to the CFD reading.

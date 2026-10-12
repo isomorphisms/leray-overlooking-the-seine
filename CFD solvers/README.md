@@ -45,3 +45,7 @@ A small implementation can use Basilisk/WaterLily for experiments, Xcompact3d/Ne
 ## Contact and symplectic geometry
 
 A companion [contact and symplectic collection](../contact-symplectic/README.md) follows the geometry of motion, ideal-fluid topology, and numerical structure. Start with [geometry and CFD](../contact-symplectic/geometry-to-cfd.md) for variational fluids, compatible exterior calculus, helicity, and QuFlow, or the [proposed experiments](../contact-symplectic/questions-and-experiments.md) for exact reference fields and pressure-error comparisons.
+
+## Video companion: Physics of Life
+
+[Scott Turner's videos and course guide](../notes/scott-turner-physics-of-life.md) provide experiments and biological examples for Reynolds number, boundary layers, drag and vortex shedding, including the cylinder-and-dye flume demonstration.
